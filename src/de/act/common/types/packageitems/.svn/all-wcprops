@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems
+END
+ItemPKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems/ItemPKG.java
+END
+ItemULD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ItemULD.java
+END
+ItemAWBAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/4650/COMMON_JAVA/src/de/act/common/types/packageitems/ItemAWBAccount.java
+END
+ItemSLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ItemSLI.java
+END
+AbstractItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/AbstractItemFactory.java
+END
+ManifestImportableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ManifestImportableObject.java
+END
+ItemBKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems/ItemBKG.java
+END
+AbstractItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems/AbstractItem.java
+END
+ItemSAD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ItemSAD.java
+END
+ItemHandlingBKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4104/COMMON_JAVA/src/de/act/common/types/packageitems/ItemHandlingBKG.java
+END
+ItemAWB.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4688/COMMON_JAVA/src/de/act/common/types/packageitems/ItemAWB.java
+END
+CItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/CItemFactory.java
+END
+TableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/1/COMMON_JAVA/src/de/act/common/types/packageitems/TableType.java
+END
+AbstractSliItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems/AbstractSliItem.java
+END
+ItemDGR.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ItemDGR.java
+END
+AbstractSubItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/packageitems/AbstractSubItem.java
+END
+ItemAVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/packageitems/ItemAVI.java
+END

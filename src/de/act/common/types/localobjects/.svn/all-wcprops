@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/act/!svn/ver/2637/COMMON_JAVA/src/de/act/common/types/localobjects
+END
+StorageLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/2239/COMMON_JAVA/src/de/act/common/types/localobjects/StorageLimit.java
+END
+RDUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/RDUser.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/2211/COMMON_JAVA/src/de/act/common/types/localobjects/Storage.java
+END
+RDDefUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/RDDefUnits.java
+END
+RDOt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/RDOt.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/2637/COMMON_JAVA/src/de/act/common/types/localobjects/Location.java
+END
+RDDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/502/COMMON_JAVA/src/de/act/common/types/localobjects/RDDefault.java
+END
+RDForms.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/RDForms.java
+END
+IconFolderLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/IconFolderLeaf.java
+END
+StorageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/2328/COMMON_JAVA/src/de/act/common/types/localobjects/StorageItem.java
+END
+RDDefUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/486/COMMON_JAVA/src/de/act/common/types/localobjects/RDDefUnit.java
+END
+IconFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/IconFolder.java
+END
+RDStorageCharges.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/2398/COMMON_JAVA/src/de/act/common/types/localobjects/RDStorageCharges.java
+END
+RDForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/RDForm.java
+END
+RDStorageUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2398/COMMON_JAVA/src/de/act/common/types/localobjects/RDStorageUnit.java
+END
+IconType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/localobjects/IconType.java
+END
+RDStorageChargesMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/2406/COMMON_JAVA/src/de/act/common/types/localobjects/RDStorageChargesMain.java
+END
+RDOtStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/2398/COMMON_JAVA/src/de/act/common/types/localobjects/RDOtStorage.java
+END
+RDOt2lcStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2376/COMMON_JAVA/src/de/act/common/types/localobjects/RDOt2lcStorage.java
+END

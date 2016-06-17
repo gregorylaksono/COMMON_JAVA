@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/7089/COMMON_JAVA/src/de/act/common/types/nonstaticobjects
+END
+RFHouseForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFHouseForm.java
+END
+BookingRequestFlight.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/2354/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingRequestFlight.java
+END
+Preadvise_users.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/2442/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/Preadvise_users.java
+END
+RFDgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDgr.java
+END
+RFSccHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/2127/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSccHandling.java
+END
+OperationInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/4165/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/OperationInformation.java
+END
+RFAvi.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAvi.java
+END
+RFPkgAvi.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFPkgAvi.java
+END
+RFMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFMetric.java
+END
+FlightDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/FlightDate.java
+END
+ULDObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/1712/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/ULDObject.java
+END
+BookingStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/2442/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingStates.java
+END
+RFForms.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFForms.java
+END
+RSOpsEmailLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/4284/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RSOpsEmailLog.java
+END
+RFAwbComHai.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwbComHai.java
+END
+Preadvise.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2218/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/Preadvise.java
+END
+RFInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4985/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFInfo.java
+END
+PreadviseBookingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/2218/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/PreadviseBookingData.java
+END
+PreadviseDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2442/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/PreadviseDB.java
+END
+FAcceptanceDiscrepancies.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/act/!svn/ver/2423/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/FAcceptanceDiscrepancies.java
+END
+StatusInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/2003/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/StatusInformation.java
+END
+ErrorState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/ErrorState.java
+END
+ShipmentInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/act/!svn/ver/5143/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/ShipmentInformation.java
+END
+RFAviDdt.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAviDdt.java
+END
+RFPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFPkg.java
+END
+AwbState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/1595/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/AwbState.java
+END
+RFDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2585/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDelivery.java
+END
+RFRem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFRem.java
+END
+RFTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3371/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFTransfer.java
+END
+RFRt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/4409/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFRt.java
+END
+RFNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/1952/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFNotification.java
+END
+RFBkgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFBkgs.java
+END
+CentralFlightData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/4513/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/CentralFlightData.java
+END
+FDiscrepancies.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/1363/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/FDiscrepancies.java
+END
+RFFormAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFFormAll.java
+END
+RFAci.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAci.java
+END
+Preadvise_airline.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/2218/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/Preadvise_airline.java
+END
+PackageDGRQtyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/PackageDGRQtyType.java
+END
+RFForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/7030/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFForm.java
+END
+CentralBookingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/CentralBookingData.java
+END
+RFPkgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFPkgs.java
+END
+RFPkgsAvi.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFPkgsAvi.java
+END
+RFAwbCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwbCom.java
+END
+RFBkgFlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFBkgFlt.java
+END
+RFCuc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFCuc.java
+END
+RFAdds.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAdds.java
+END
+RFStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/3226/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFStat.java
+END
+TotalConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/2937/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/TotalConnection.java
+END
+RFStick.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4985/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFStick.java
+END
+RFDeliveryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/2585/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDeliveryView.java
+END
+RFRtCuc.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4409/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFRtCuc.java
+END
+RFNotificationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/1953/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFNotificationView.java
+END
+RCFlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RCFlt.java
+END
+PackageVol.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/PackageVol.java
+END
+RFDistr.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDistr.java
+END
+RFNotocDgrDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/2524/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFNotocDgrDetails.java
+END
+CourierInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/5624/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/CourierInformation.java
+END
+RFSli.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSli.java
+END
+RFAwbItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwbItem.java
+END
+RFAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/1901/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAdd.java
+END
+RFSsc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSsc.java
+END
+HibernateConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/act/!svn/ver/6156/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/HibernateConnection.java
+END
+RFHaRem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFHaRem.java
+END
+FlightAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/FlightAttributes.java
+END
+ConxFlights.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4832/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/ConxFlights.java
+END
+RCBkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/822/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RCBkg.java
+END
+RFSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSign.java
+END
+RFHai.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFHai.java
+END
+RFBkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFBkg.java
+END
+RFStatView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3226/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFStatView.java
+END
+RFAwb.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwb.java
+END
+ProcessStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/ProcessStates.java
+END
+FAWBForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/FAWBForm.java
+END
+RFDgrIdt.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDgrIdt.java
+END
+RFSubt.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSubt.java
+END
+BookingFlightState2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingFlightState2.java
+END
+RFOt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/3199/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFOt.java
+END
+RFAwbComHarem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwbComHarem.java
+END
+RFTimesproof.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/4473/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFTimesproof.java
+END
+RFAtt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAtt.java
+END
+BookingRequestFlight2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/act/!svn/ver/2354/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingRequestFlight2.java
+END
+RFDeliveryNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/act/!svn/ver/2585/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDeliveryNotification.java
+END
+AWBPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3728/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/AWBPrint.java
+END
+BookingFlightState.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/2354/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingFlightState.java
+END
+RFDgrIdts.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFDgrIdts.java
+END
+RFSubtTcom.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFSubtTcom.java
+END
+PackageState.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/PackageState.java
+END
+Schedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/Schedule.java
+END
+RFAwbNo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/2055/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/RFAwbNo.java
+END
+BookingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/5352/COMMON_JAVA/src/de/act/common/types/nonstaticobjects/BookingInformation.java
+END

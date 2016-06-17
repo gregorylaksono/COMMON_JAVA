@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/act/!svn/ver/1/COMMON_JAVA/lib
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/hibernate3.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/ejb3-persistence.jar
+END
+commons-lang-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/commons-lang-2.1.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/junit.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/hibernate-annotations.jar
+END
+jboss-cache-jdk50.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/jboss-cache-jdk50.jar
+END
+acegi-security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/acegi-security.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/commons-beanutils.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/commons-logging.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/act/!svn/ver/1/COMMON_JAVA/lib/log4j.jar
+END

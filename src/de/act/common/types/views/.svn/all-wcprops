@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/views
+END
+ImportAcceptanceAp3lcView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/1240/COMMON_JAVA/src/de/act/common/types/views/ImportAcceptanceAp3lcView.java
+END
+BookingItemControlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/380/COMMON_JAVA/src/de/act/common/types/views/BookingItemControlView.java
+END
+TroubleListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/3121/COMMON_JAVA/src/de/act/common/types/views/TroubleListView.java
+END
+NewExportAcceptanceViewShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/5052/COMMON_JAVA/src/de/act/common/types/views/NewExportAcceptanceViewShipment.java
+END
+BookingControlView2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/views/BookingControlView2.java
+END
+ReportPeriodView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4359/COMMON_JAVA/src/de/act/common/types/views/ReportPeriodView.java
+END
+CargoSalesReportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4264/COMMON_JAVA/src/de/act/common/types/views/CargoSalesReportView.java
+END
+CFltBkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/3044/COMMON_JAVA/src/de/act/common/types/views/CFltBkg.java
+END
+NetRatesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/4554/COMMON_JAVA/src/de/act/common/types/views/NetRatesView.java
+END
+UserAuthorityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/UserAuthorityView.java
+END
+ExportAcceptanceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/5116/COMMON_JAVA/src/de/act/common/types/views/ExportAcceptanceView.java
+END
+DeliveryNotificationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/1865/COMMON_JAVA/src/de/act/common/types/views/DeliveryNotificationData.java
+END
+AWBFIdView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/act/!svn/ver/1018/COMMON_JAVA/src/de/act/common/types/views/AWBFIdView.java
+END
+ReportView1.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/3909/COMMON_JAVA/src/de/act/common/types/views/ReportView1.java
+END
+ScheduleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/6070/COMMON_JAVA/src/de/act/common/types/views/ScheduleView.java
+END
+BookingInformationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/5143/COMMON_JAVA/src/de/act/common/types/views/BookingInformationView.java
+END
+CapacityControlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/views/CapacityControlView.java
+END
+NewExportAcceptanceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/5052/COMMON_JAVA/src/de/act/common/types/views/NewExportAcceptanceView.java
+END
+AttachmentCurView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2156/COMMON_JAVA/src/de/act/common/types/views/AttachmentCurView.java
+END
+AWBForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/views/AWBForm.java
+END
+FltGroupView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/FltGroupView.java
+END
+FirstDepartureView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/2057/COMMON_JAVA/src/de/act/common/types/views/FirstDepartureView.java
+END
+ASccValueView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/4448/COMMON_JAVA/src/de/act/common/types/views/ASccValueView.java
+END
+AWBCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/views/AWBCom.java
+END
+StatusInformationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2244/COMMON_JAVA/src/de/act/common/types/views/StatusInformationView.java
+END
+GSAPartnershipView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/3272/COMMON_JAVA/src/de/act/common/types/views/GSAPartnershipView.java
+END
+BookingAccBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/2964/COMMON_JAVA/src/de/act/common/types/views/BookingAccBean.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/1778/COMMON_JAVA/src/de/act/common/types/views/Address.java
+END
+PackageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/4354/COMMON_JAVA/src/de/act/common/types/views/PackageView.java
+END
+PackageControlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4945/COMMON_JAVA/src/de/act/common/types/views/PackageControlView.java
+END
+UserAuthorityDefaultView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/UserAuthorityDefaultView.java
+END
+MyShipmentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4658/COMMON_JAVA/src/de/act/common/types/views/MyShipmentView.java
+END
+ShipmentInformationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/5143/COMMON_JAVA/src/de/act/common/types/views/ShipmentInformationView.java
+END
+BookingListForScheduleClosedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/act/!svn/ver/3009/COMMON_JAVA/src/de/act/common/types/views/BookingListForScheduleClosedView.java
+END
+RFShipmentSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2003/COMMON_JAVA/src/de/act/common/types/views/RFShipmentSummary.java
+END
+CommodityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/4969/COMMON_JAVA/src/de/act/common/types/views/CommodityView.java
+END
+LoadingListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/1582/COMMON_JAVA/src/de/act/common/types/views/LoadingListView.java
+END
+RSAddCAAccountView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/3614/COMMON_JAVA/src/de/act/common/types/views/RSAddCAAccountView.java
+END
+ReportPerdayView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4318/COMMON_JAVA/src/de/act/common/types/views/ReportPerdayView.java
+END
+AddressView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/3719/COMMON_JAVA/src/de/act/common/types/views/AddressView.java
+END
+CentralFlightView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4513/COMMON_JAVA/src/de/act/common/types/views/CentralFlightView.java
+END
+BookingItemParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/7334/COMMON_JAVA/src/de/act/common/types/views/BookingItemParent.java
+END
+InvoiceReportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4563/COMMON_JAVA/src/de/act/common/types/views/InvoiceReportView.java
+END
+SccLoadableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/2964/COMMON_JAVA/src/de/act/common/types/views/SccLoadableView.java
+END
+CancelBookingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2201/COMMON_JAVA/src/de/act/common/types/views/CancelBookingView.java
+END
+HandlingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/4985/COMMON_JAVA/src/de/act/common/types/views/HandlingInformation.java
+END
+ReportForSendMailView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/4165/COMMON_JAVA/src/de/act/common/types/views/ReportForSendMailView.java
+END
+CentralBookingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/CentralBookingView.java
+END
+NewConx0View.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/6838/COMMON_JAVA/src/de/act/common/types/views/NewConx0View.java
+END
+SccLimitationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4433/COMMON_JAVA/src/de/act/common/types/views/SccLimitationView.java
+END
+ImportAcceptanceViewCargoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/6157/COMMON_JAVA/src/de/act/common/types/views/ImportAcceptanceViewCargoImp.java
+END
+AccountingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/1778/COMMON_JAVA/src/de/act/common/types/views/AccountingInformation.java
+END
+CurrentFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/CurrentFormView.java
+END
+DailyBookingListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4347/COMMON_JAVA/src/de/act/common/types/views/DailyBookingListView.java
+END
+SccPreferenceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2964/COMMON_JAVA/src/de/act/common/types/views/SccPreferenceView.java
+END
+AWBView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/5508/COMMON_JAVA/src/de/act/common/types/views/AWBView.java
+END
+ReportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/act/!svn/ver/3909/COMMON_JAVA/src/de/act/common/types/views/ReportView.java
+END
+SchedulerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/4391/COMMON_JAVA/src/de/act/common/types/views/SchedulerView.java
+END
+ImportAcceptanceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4569/COMMON_JAVA/src/de/act/common/types/views/ImportAcceptanceView.java
+END
+ULDView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/views/ULDView.java
+END
+RtView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/2069/COMMON_JAVA/src/de/act/common/types/views/RtView.java
+END
+BookingControlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/874/COMMON_JAVA/src/de/act/common/types/views/BookingControlView.java
+END
+ComAnnSccClassView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/326/COMMON_JAVA/src/de/act/common/types/views/ComAnnSccClassView.java
+END
+AircraftView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/views/AircraftView.java
+END
+NewExportAcceptanceViewShipmentCargoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/act/!svn/ver/6395/COMMON_JAVA/src/de/act/common/types/views/NewExportAcceptanceViewShipmentCargoImp.java
+END
+NewConx1View.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/6839/COMMON_JAVA/src/de/act/common/types/views/NewConx1View.java
+END
+DefaultCapacityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3546/COMMON_JAVA/src/de/act/common/types/views/DefaultCapacityView.java
+END

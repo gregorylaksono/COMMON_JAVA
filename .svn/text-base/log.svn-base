@@ -1,0 +1,308 @@
+Buildfile: build.xml
+
+init:
+
+compile_common:
+     [echo] COMMON_JAVA: c:\workspace\COMMON_JAVA\build.xml
+    [javac] Compiling 207 source files to C:\workspace\COMMON_JAVA\classes
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\enums\BOOKINGSTATE.java:3: 'class' or 'interface' expected
+    [javac] public enum BOOKINGSTATE {
+    [javac]        ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IBooking.java:39: <identifier> expected
+    [javac] 	public abstract List<ItemBKG> getBookingRequest(String f_id);
+    [javac]                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IBooking.java:39: = expected
+    [javac] 	public abstract List<ItemBKG> getBookingRequest(String f_id);
+    [javac]                                                                     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IBooking.java:46: <identifier> expected
+    [javac] 	public abstract boolean setBookingRequest(List<ItemBKG> bk);
+    [javac]                                                       ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IBooking.java:46: ')' expected
+    [javac] 	public abstract boolean setBookingRequest(List<ItemBKG> bk);
+    [javac]                                                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:166: <identifier> expected
+    [javac]     public List<Discrepancies> getDiscrepancies();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:166: = expected
+    [javac]     public List<Discrepancies> getDiscrepancies();
+    [javac]                                                  ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:167: <identifier> expected
+    [javac]     public List<RSAp> getAirports();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:167: = expected
+    [javac]     public List<RSAp> getAirports();
+    [javac]                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:174: <identifier> expected
+    [javac] 	public List<ICommodityTree> getCommodityList();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:174: = expected
+    [javac] 	public List<ICommodityTree> getCommodityList();
+    [javac]                                                       ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:179: <identifier> expected
+    [javac] 	public List<RSAci> getAccountInformations();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:179: = expected
+    [javac] 	public List<RSAci> getAccountInformations();
+    [javac]                                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:180: <identifier> expected
+    [javac] 	public List<RSAdd> getAddresses();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:180: = expected
+    [javac] 	public List<RSAdd> getAddresses();
+    [javac]                                          ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:181: <identifier> expected
+    [javac] 	public List<RSCuc> getCustomsCodes();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:181: = expected
+    [javac] 	public List<RSCuc> getCustomsCodes();
+    [javac]                                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:182: <identifier> expected
+    [javac] 	public List<RSUnit> getWeightUnits();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:182: = expected
+    [javac] 	public List<RSUnit> getWeightUnits();
+    [javac]                                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:183: <identifier> expected
+    [javac] 	public List<RSUnit> getVolumeUnits();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:183: = expected
+    [javac] 	public List<RSUnit> getVolumeUnits();
+    [javac]                                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:184: <identifier> expected
+    [javac] 	public List<RSUnit> getLengthUnits();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:184: = expected
+    [javac] 	public List<RSUnit> getLengthUnits();
+    [javac]                                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:185: <identifier> expected
+    [javac] 	public List<RSScc> getSpecialCargoCodes();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:185: = expected
+    [javac] 	public List<RSScc> getSpecialCargoCodes();
+    [javac]                                                  ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:186: <identifier> expected
+    [javac]     public List<RSCaConx> getCarriers();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:186: = expected
+    [javac]     public List<RSCaConx> getCarriers();
+    [javac]                                        ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:187: <identifier> expected
+    [javac]     public List<RSCur> getCurrencies();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:187: = expected
+    [javac]     public List<RSCur> getCurrencies();
+    [javac]                                       ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:188: <identifier> expected
+    [javac] 	public List<RSHai> getHandlingInformations();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:188: = expected
+    [javac] 	public List<RSHai> getHandlingInformations();
+    [javac]                                                     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:189: <identifier> expected
+    [javac] 	public List<RSPkgCol> getPackageColors();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:189: = expected
+    [javac] 	public List<RSPkgCol> getPackageColors();
+    [javac]                                                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:190: <identifier> expected
+    [javac] 	public List<RSPkgMat> getPackageMaterials();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:190: = expected
+    [javac] 	public List<RSPkgMat> getPackageMaterials();
+    [javac]                                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:191: <identifier> expected
+    [javac] 	public List<RSPkgShp> getPackageShippments();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:191: = expected
+    [javac] 	public List<RSPkgShp> getPackageShippments();
+    [javac]                                                     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:192: <identifier> expected
+    [javac]     public List<ULDObject> getULDStock(String add_id);
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:192: = expected
+    [javac]     public List<ULDObject> getULDStock(String add_id);
+    [javac]                                                      ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:193: <identifier> expected
+    [javac]     public List<RDOt> getOtherChargesRates();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:193: = expected
+    [javac]     public List<RDOt> getOtherChargesRates();
+    [javac]                                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:210: <identifier> expected
+    [javac] 	public List<RSUnit> getDefaultUnits();
+    [javac]                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:210: = expected
+    [javac] 	public List<RSUnit> getDefaultUnits();
+    [javac]                                              ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:228: <identifier> expected
+    [javac]     public RuleParams getParamforChargesCollect(List<RSAp> routings);
+    [javac]                                                     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:228: ')' expected
+    [javac]     public RuleParams getParamforChargesCollect(List<RSAp> routings);
+    [javac]                                                                     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:237: <identifier> expected
+    [javac]     public RuleParams getParamforChargesCollectOther(List<RSAp> routings);
+    [javac]                                                          ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:237: ')' expected
+    [javac]     public RuleParams getParamforChargesCollectOther(List<RSAp> routings);
+    [javac]                                                                          ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:265: <identifier> expected
+    [javac]     public RFOt getFuelCharges(Double wgtCharges, List<BookingRequestFlight> flts);
+    [javac]                                                       ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:265: ')' expected
+    [javac]     public RFOt getFuelCharges(Double wgtCharges, List<BookingRequestFlight> flts);
+    [javac]                                                                                   ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:274: <identifier> expected
+    [javac]     public RFOt getDisbursmentCharges(List<BookingRequestFlight> bkgflights,
+    [javac]                                           ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:275: ')' expected
+    [javac]             Double wgtChrg, Double otChrg, String cur, Boolean cc);
+    [javac]                                                                   ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:307: <identifier> expected
+    [javac]     public List<RSCa> getAirlines();
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IGeneralAction.java:307: = expected
+    [javac]     public List<RSCa> getAirlines();
+    [javac]                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:62: <identifier> expected
+    [javac]     public abstract List<Discrepancies> getAllDiscrepancies();
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:62: = expected
+    [javac]     public abstract List<Discrepancies> getAllDiscrepancies();
+    [javac]                                                              ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:230: <identifier> expected
+    [javac]     public abstract List<RSFltConxCA> getFlightsFrom(RSAp airp, Date now);
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:230: = expected
+    [javac]     public abstract List<RSFltConxCA> getFlightsFrom(RSAp airp, Date now);
+    [javac]                                                                          ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:238: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectBookingListElements(RSFltConxCA flt);
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:238: = expected
+    [javac]     public abstract List<ManifestObject> selectBookingListElements(RSFltConxCA flt);
+    [javac]                                                                                    ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:246: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectUnassignedBookingListElements(RSFltConxCA flt);
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:246: = expected
+    [javac]     public abstract List<ManifestObject> selectUnassignedBookingListElements(RSFltConxCA flt);
+    [javac]                                                                                              ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:254: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectLayingListElements(RSFltConxCA flt);
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:254: = expected
+    [javac]     public abstract List<ManifestObject> selectLayingListElements(RSFltConxCA flt);
+    [javac]                                                                                   ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:261: <identifier> expected
+    [javac]     public abstract List<ULDObject> getAllUldObjects();
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:261: = expected
+    [javac]     public abstract List<ULDObject> getAllUldObjects();
+    [javac]                                                       ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:268: <identifier> expected
+    [javac]     public abstract List<ULDTypeObject> getAvailableUldObjects();
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:268: = expected
+    [javac]     public abstract List<ULDTypeObject> getAvailableUldObjects();
+    [javac]                                                                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:285: <identifier> expected
+    [javac]     public abstract List<Storage> isShipmentAccepted(String f_id) ;
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingBasic.java:285: = expected
+    [javac]     public abstract List<Storage> isShipmentAccepted(String f_id) ;
+    [javac]                                                                   ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:59: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectBookingListElements(
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:60: = expected
+    [javac]             RSFltConxCA flt);
+    [javac]                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:68: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectLayingListElements(
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:69: = expected
+    [javac]             RSFltConxCA flt);
+    [javac]                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:75: <identifier> expected
+    [javac]     public abstract List<ManifestObject> selectUnassignedBookingListElements(
+    [javac]                         ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\IHandlingOffice.java:76: = expected
+    [javac]             RSFltConxCA flt);
+    [javac]                             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:35: <identifier> expected
+    [javac] 	List<ItemBKG> getBookingRequests(RSCaConx ca, RSAp dep, RSAp des, Date depDate, Date desDate);
+    [javac]             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:35: = expected
+    [javac] 	List<ItemBKG> getBookingRequests(RSCaConx ca, RSAp dep, RSAp des, Date depDate, Date desDate);
+    [javac]                                                                                                      ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:51: <identifier> expected
+    [javac] 	List<RSCa> getAirlines();
+    [javac]             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:51: = expected
+    [javac] 	List<RSCa> getAirlines();
+    [javac]                                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:63: <identifier> expected
+    [javac] 	List<ItemBKG> getSingleBookingRequests(RSCaConx ca, RSAp dep, RSAp des, Date depDate, Date desDate);
+    [javac]             ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISchedule.java:63: = expected
+    [javac] 	List<ItemBKG> getSingleBookingRequests(RSCaConx ca, RSAp dep, RSAp des, Date depDate, Date desDate);
+    [javac]                                                                                                            ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISession.java:28: <identifier> expected
+    [javac]     Set<String> getAvailableActions();
+    [javac]        ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\interfaces\ISession.java:28: = expected
+    [javac]     Set<String> getAvailableActions();
+    [javac]                                      ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\jmstypes\FormObjectMessageObject.java:28: ';' expected
+    [javac] 	public enum SendState {SEND,UPDATE,DELETE, MSG};
+    [javac]                               ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\CheckRuleParams.java:6: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\CheckRuleParams.java:131: illegal character: \64
+    [javac]     @Override
+    [javac]     ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\CheckRuleParams.java:138: <identifier> expected
+    [javac]     }
+    [javac]      ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\MFormBkg.java:7: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\MFormExportAcceptance.java:29: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\MFormExportAcceptance.java:44: <identifier> expected
+    [javac]     public Set<Shipments> accItems;
+    [javac]               ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\MFormExportAcceptance.java:53: '(' or '[' expected
+    [javac]         this.accItems = new LinkedHashSet<Shipments>();
+    [javac]                                          ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:16: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:25: <identifier> expected
+    [javac]     private List<ULDTypeObject> uldType = new ArrayList<ULDTypeObject>();
+    [javac]                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:26: <identifier> expected
+    [javac]     private List<ULDObject> uldCargo = new ArrayList<ULDObject>();
+    [javac]                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:27: <identifier> expected
+    [javac]     private List<ManifestObject> bulkCargo = new ArrayList<ManifestObject>();
+    [javac]                 ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:35: <identifier> expected
+    [javac]     public List<ULDObject> getULDCargo() {
+    [javac]                ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\ManifestList.java:500: ';' expected
+    [javac]     }
+    [javac]      ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\Money.java:5: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\RPCheckRuleParam.java:15: illegal character: \64
+    [javac] @org.jboss.cache.aop.annotation.PojoCacheable
+    [javac] ^
+    [javac] C:\workspace\COMMON_JAVA\src\de\act\common\types\RPCheckRuleParam.java:22: <identifier> expected
+    [javac] 	public List<RSAp>	aps			=null;
+    [javac]                    ^
+    [javac] 100 errors

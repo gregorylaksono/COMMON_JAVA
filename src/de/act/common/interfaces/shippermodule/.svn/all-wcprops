@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/7062/COMMON_JAVA/src/de/act/common/interfaces/shippermodule
+END
+IDGRWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/IDGRWrite.java
+END
+IDGRRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/IDGRRead.java
+END
+IAVIWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/IAVIWrite.java
+END
+IAVIRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/IAVIRead.java
+END
+ICOOWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/ICOOWrite.java
+END
+ICOORead.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/ICOORead.java
+END
+ISchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/7062/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/ISchedule.java
+END
+IBookingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/IBookingRequest.java
+END
+ISLIWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2442/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/ISLIWrite.java
+END
+ISLIRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/shippermodule/ISLIRead.java
+END

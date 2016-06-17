@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/act/!svn/ver/5348/COMMON_JAVA/src/de/act/central/types
+END
+FormularSLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/FormularSLI.java
+END
+SubtTCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/SubtTCom.java
+END
+CentralBooking.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/808/COMMON_JAVA/src/de/act/central/types/CentralBooking.java
+END
+AcceptancePackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/794/COMMON_JAVA/src/de/act/central/types/AcceptancePackage.java
+END
+FAccShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccShipment.java
+END
+CentralAircraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/CentralAircraft.java
+END
+Sticker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/Sticker.java
+END
+FAccHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/2614/COMMON_JAVA/src/de/act/central/types/FAccHeader.java
+END
+AcceptanceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/794/COMMON_JAVA/src/de/act/central/types/AcceptanceItem.java
+END
+PackageItemDGR.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/PackageItemDGR.java
+END
+BookingFlight2.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/628/COMMON_JAVA/src/de/act/central/types/BookingFlight2.java
+END
+HandlingAirportCarrierId.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/HandlingAirportCarrierId.java
+END
+PackageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/1950/COMMON_JAVA/src/de/act/central/types/PackageItem.java
+END
+PackageItemAVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/PackageItemAVI.java
+END
+FormularBKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/FormularBKG.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/Distribution.java
+END
+FAccDiscr.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccDiscr.java
+END
+FormularAWB.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/4650/COMMON_JAVA/src/de/act/central/types/FormularAWB.java
+END
+PackageItemSLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/PackageItemSLI.java
+END
+Uld.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/act/!svn/ver/1950/COMMON_JAVA/src/de/act/central/types/Uld.java
+END
+ManifestItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/5348/COMMON_JAVA/src/de/act/central/types/ManifestItem.java
+END
+Acceptance.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/794/COMMON_JAVA/src/de/act/central/types/Acceptance.java
+END
+Routing.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/act/!svn/ver/2152/COMMON_JAVA/src/de/act/central/types/Routing.java
+END
+FAccAwbPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccAwbPkg.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/Attachment.java
+END
+HandlingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4985/COMMON_JAVA/src/de/act/central/types/HandlingInformation.java
+END
+PackageItem2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/628/COMMON_JAVA/src/de/act/central/types/PackageItem2.java
+END
+HandlingAirportCarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/HandlingAirportCarrier.java
+END
+PackageItemBKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/4057/COMMON_JAVA/src/de/act/central/types/PackageItemBKG.java
+END
+AccountingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/AccountingInformation.java
+END
+FomularDGR.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/FomularDGR.java
+END
+PackageItemAWB.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/3245/COMMON_JAVA/src/de/act/central/types/PackageItemAWB.java
+END
+FAccAwbItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccAwbItem.java
+END
+CentralDistributionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/CentralDistributionId.java
+END
+FAccShipmentPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccShipmentPkg.java
+END
+AwbNo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/act/!svn/ver/3190/COMMON_JAVA/src/de/act/central/types/AwbNo.java
+END
+Manifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/act/!svn/ver/1950/COMMON_JAVA/src/de/act/central/types/Manifest.java
+END
+CentralFlights.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/central/types/CentralFlights.java
+END
+BookingFlightState2.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/628/COMMON_JAVA/src/de/act/central/types/BookingFlightState2.java
+END
+Attachment2.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/628/COMMON_JAVA/src/de/act/central/types/Attachment2.java
+END
+AwbState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/AwbState.java
+END
+Addresses.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/Addresses.java
+END
+SubtTComId.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/SubtTComId.java
+END
+OtherCharges.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/3199/COMMON_JAVA/src/de/act/central/types/OtherCharges.java
+END
+Discrepencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/2592/COMMON_JAVA/src/de/act/central/types/Discrepencies.java
+END
+PackageItemBKG2.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/act/!svn/ver/4057/COMMON_JAVA/src/de/act/central/types/PackageItemBKG2.java
+END
+FAccShipmentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/central/types/FAccShipmentItem.java
+END
+CentralSubt.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/CentralSubt.java
+END
+BookingFlight.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/BookingFlight.java
+END
+CentralUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/CentralUser.java
+END
+BookingFlightState.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/BookingFlightState.java
+END
+FormularAVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/FormularAVI.java
+END
+CentralDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/CentralDistribution.java
+END
+CFlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/central/types/CFlt.java
+END
+Central.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/Central.java
+END
+TransferUld.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/2323/COMMON_JAVA/src/de/act/central/types/TransferUld.java
+END
+PackageState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/central/types/PackageState.java
+END
+FormularInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4303/COMMON_JAVA/src/de/act/central/types/FormularInformation.java
+END

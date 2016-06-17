@@ -1,0 +1,1 @@
+del /S /Q build & del /S /Q classes & ant clean & ant & ant common_jar

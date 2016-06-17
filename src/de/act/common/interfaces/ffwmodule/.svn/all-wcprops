@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/act/!svn/ver/5525/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule
+END
+IBooking.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/1/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IBooking.java
+END
+IBookingControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IBookingControl.java
+END
+IRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/5099/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IRate.java
+END
+IDeliveryWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IDeliveryWrite.java
+END
+IDeliveryRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IDeliveryRead.java
+END
+ISADWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/ISADWrite.java
+END
+ISADRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/ISADRead.java
+END
+IAWBWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/3190/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IAWBWrite.java
+END
+IAWBRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5525/COMMON_JAVA/src/de/act/common/interfaces/ffwmodule/IAWBRead.java
+END

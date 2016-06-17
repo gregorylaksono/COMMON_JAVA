@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/7003/COMMON_JAVA/src/de/act/common/interfaces/usermodule
+END
+IDeliveryNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/act/!svn/ver/5092/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IDeliveryNotificationAction.java
+END
+IUserRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/2772/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IUserRegistration.java
+END
+IPreferenceUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/2852/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IPreferenceUserAction.java
+END
+IUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2139/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IUserAction.java
+END
+IManagementInformationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/act/!svn/ver/3387/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IManagementInformationAction.java
+END
+ICommodityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/7003/COMMON_JAVA/src/de/act/common/interfaces/usermodule/ICommodityAction.java
+END
+IStorageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/3846/COMMON_JAVA/src/de/act/common/interfaces/usermodule/IStorageAction.java
+END
+ICompanyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/usermodule/ICompanyAction.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions
+END
+CommodityExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/CommodityExistException.java
+END
+CompanyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/CompanyExistException.java
+END
+AnnotationExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/AnnotationExistException.java
+END
+FormularException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/FormularException.java
+END
+NoSuchSccException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/NoSuchSccException.java
+END
+MissingParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/MissingParameterException.java
+END
+UserExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/UserExistException.java
+END
+RoleExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/exceptions/RoleExistException.java
+END

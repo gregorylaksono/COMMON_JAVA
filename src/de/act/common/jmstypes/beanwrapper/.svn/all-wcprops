@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/act/!svn/ver/4522/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper
+END
+JMSCostConxObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/4522/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSCostConxObject.java
+END
+JMSRequestBookingObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/act/!svn/ver/2489/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSRequestBookingObject.java
+END
+JMSPreAdviceRespond.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/2442/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSPreAdviceRespond.java
+END
+JMSUserRegistrationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/act/!svn/ver/2188/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSUserRegistrationObject.java
+END
+JMSAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/2703/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSAuth.java
+END
+JMSProvisionsObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/3324/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSProvisionsObject.java
+END
+JMSPreAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3252/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSPreAdvice.java
+END
+JMSAirlineAreaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/1950/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSAirlineAreaObject.java
+END
+JMSTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3058/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSTrigger.java
+END
+JMSFlightObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/3252/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSFlightObject.java
+END
+JMSManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2579/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSManifest.java
+END
+JMSAwbNo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2086/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSAwbNo.java
+END
+JMSObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/3777/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSObjectWrapper.java
+END
+JMSPreferenceAddressObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/act/!svn/ver/2852/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSPreferenceAddressObject.java
+END
+JMSNetRatesObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/3896/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSNetRatesObject.java
+END
+JMSAirlineScc.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2964/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSAirlineScc.java
+END
+JMSSCCHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/2223/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSSCCHandling.java
+END
+JMSNotoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2512/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSNotoc.java
+END
+JMSAircraftObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSAircraftObject.java
+END
+JMSSyncDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4259/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSSyncDB.java
+END
+JMSScheduleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/3751/COMMON_JAVA/src/de/act/common/jmstypes/beanwrapper/JMSScheduleObject.java
+END

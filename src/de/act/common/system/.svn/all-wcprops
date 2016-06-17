@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/act/!svn/ver/5156/COMMON_JAVA/src/de/act/common/system
+END
+RmiRemoteMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/5156/COMMON_JAVA/src/de/act/common/system/RmiRemoteMaker.java
+END
+LockSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/LockSet.java
+END
+RemoteIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/RemoteIterator.java
+END
+SPassEncode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/SPassEncode.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/Lock.java
+END
+ObjectCloner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/621/COMMON_JAVA/src/de/act/common/system/ObjectCloner.java
+END
+SPassEncode2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/SPassEncode2.java
+END
+RemoteablePersistentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/RemoteablePersistentList.java
+END
+RemoteablePersistentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/system/RemoteablePersistentSet.java
+END
+TimeproofReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/4473/COMMON_JAVA/src/de/act/common/system/TimeproofReq.java
+END

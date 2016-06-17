@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/act/!svn/ver/4566/COMMON_JAVA/src/de/act/common/types/attachment
+END
+CDeliveryAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CDeliveryAttachment.java
+END
+CAddressAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAddressAttachment.java
+END
+CBookingFlightAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CBookingFlightAttachment.java
+END
+CAcceptanceAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAcceptanceAttachment.java
+END
+CSadItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CSadItemAttachment.java
+END
+CBookingFlightStateAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CBookingFlightStateAttachment.java
+END
+CRoutingAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CRoutingAttachment.java
+END
+CSliAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CSliAttachment.java
+END
+CBookingAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CBookingAttachment.java
+END
+CAwbItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAwbItemAttachment.java
+END
+CDgrItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CDgrItemAttachment.java
+END
+CPackageAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CPackageAttachment.java
+END
+CAciAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAciAttachment.java
+END
+CAviItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAviItemAttachment.java
+END
+CWarehouseAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CWarehouseAttachment.java
+END
+CAbstractAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/4566/COMMON_JAVA/src/de/act/common/types/attachment/CAbstractAttachment.java
+END
+CSliItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CSliItemAttachment.java
+END
+CSadAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CSadAttachment.java
+END
+CNotifyAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CNotifyAttachment.java
+END
+CAwbAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAwbAttachment.java
+END
+CAwbStateAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAwbStateAttachment.java
+END
+CDgrAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CDgrAttachment.java
+END
+CAviCheckAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAviCheckAttachment.java
+END
+CAviAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CAviAttachment.java
+END
+CBkgItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CBkgItemAttachment.java
+END
+CNotocAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CNotocAttachment.java
+END
+CPkgStateAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/attachment/CPkgStateAttachment.java
+END

@@ -1,0 +1,959 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/staticobjects
+END
+RSAp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/5710/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAp.java
+END
+InsuranceCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/staticobjects/InsuranceCharge.java
+END
+RDDefCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/1018/COMMON_JAVA/src/de/act/common/types/staticobjects/RDDefCom.java
+END
+RSFlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/7219/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFlt.java
+END
+RSAcTypeComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAcTypeComp.java
+END
+RSBookingListMailRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/act/!svn/ver/4390/COMMON_JAVA/src/de/act/common/types/staticobjects/RSBookingListMailRules.java
+END
+RSUldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/474/COMMON_JAVA/src/de/act/common/types/staticobjects/RSUldType.java
+END
+RSOt.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/4901/COMMON_JAVA/src/de/act/common/types/staticobjects/RSOt.java
+END
+Classes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/Classes.java
+END
+RSUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSUnit.java
+END
+RSAps.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAps.java
+END
+RSCustRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3668/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCustRules.java
+END
+RSUldLocStock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/565/COMMON_JAVA/src/de/act/common/types/staticobjects/RSUldLocStock.java
+END
+RSFltConxCA.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFltConxCA.java
+END
+RSAddAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddAdd.java
+END
+RSAddOpsArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/5798/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddOpsArea.java
+END
+RSFormAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFormAll.java
+END
+RSCaConx.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCaConx.java
+END
+ManagementInformationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/act/!svn/ver/1546/COMMON_JAVA/src/de/act/common/types/staticobjects/ManagementInformationData.java
+END
+RCAddAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/2715/COMMON_JAVA/src/de/act/common/types/staticobjects/RCAddAdd.java
+END
+RSCuc.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/3678/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCuc.java
+END
+RSHai.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSHai.java
+END
+CommodityInsurance.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityInsurance.java
+END
+RSAddTcom.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5976/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddTcom.java
+END
+SccCaRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4433/COMMON_JAVA/src/de/act/common/types/staticobjects/SccCaRule.java
+END
+RSUld.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/476/COMMON_JAVA/src/de/act/common/types/staticobjects/RSUld.java
+END
+RSCourierRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/7294/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCourierRate.java
+END
+RSTimeZoneLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3039/COMMON_JAVA/src/de/act/common/types/staticobjects/RSTimeZoneLog.java
+END
+RSCimp.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4525/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCimp.java
+END
+CourierHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/7370/COMMON_JAVA/src/de/act/common/types/staticobjects/CourierHandshake.java
+END
+RRCourierService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/7086/COMMON_JAVA/src/de/act/common/types/staticobjects/RRCourierService.java
+END
+CommodityAVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityAVI.java
+END
+RFCourierJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/6492/COMMON_JAVA/src/de/act/common/types/staticobjects/RFCourierJob.java
+END
+RSCcd.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCcd.java
+END
+RSApCaExc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5887/COMMON_JAVA/src/de/act/common/types/staticobjects/RSApCaExc.java
+END
+RSRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4554/COMMON_JAVA/src/de/act/common/types/staticobjects/RSRate.java
+END
+RSVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSVal.java
+END
+RSCa.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCa.java
+END
+RSCoTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/4473/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCoTax.java
+END
+RSAddCAAccountKickback.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/act/!svn/ver/4554/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddCAAccountKickback.java
+END
+SCourierRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/7085/COMMON_JAVA/src/de/act/common/types/staticobjects/SCourierRate.java
+END
+RSCourierCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/6976/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCourierCode.java
+END
+RSVad.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/3546/COMMON_JAVA/src/de/act/common/types/staticobjects/RSVad.java
+END
+RSProvision.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3365/COMMON_JAVA/src/de/act/common/types/staticobjects/RSProvision.java
+END
+CommodityAnn.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityAnn.java
+END
+RSAr.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/3666/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAr.java
+END
+RSRateAuto.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4491/COMMON_JAVA/src/de/act/common/types/staticobjects/RSRateAuto.java
+END
+RSPkgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgs.java
+END
+RSSalesRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4693/COMMON_JAVA/src/de/act/common/types/staticobjects/RSSalesRates.java
+END
+CommodityScc.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityScc.java
+END
+RSAddTcoms.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddTcoms.java
+END
+CommoditySLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommoditySLI.java
+END
+RSCaPref.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4881/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCaPref.java
+END
+RSULDTypeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/474/COMMON_JAVA/src/de/act/common/types/staticobjects/RSULDTypeID.java
+END
+RSAvis.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAvis.java
+END
+CustomArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/2061/COMMON_JAVA/src/de/act/common/types/staticobjects/CustomArea.java
+END
+RSCharges.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4857/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCharges.java
+END
+RSAcType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAcType.java
+END
+InsuranceStock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/staticobjects/InsuranceStock.java
+END
+RSAddField.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddField.java
+END
+CustomNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4259/COMMON_JAVA/src/de/act/common/types/staticobjects/CustomNumber.java
+END
+RSCourierRouteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/act/!svn/ver/7294/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCourierRouteService.java
+END
+RSCountry.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/7222/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCountry.java
+END
+RSAvi.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAvi.java
+END
+SRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/4688/COMMON_JAVA/src/de/act/common/types/staticobjects/SRate.java
+END
+RSPkgShp.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgShp.java
+END
+RSAddCAAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2772/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddCAAccount.java
+END
+ModeOfTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/2169/COMMON_JAVA/src/de/act/common/types/staticobjects/ModeOfTransport.java
+END
+RSCaUld.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/4016/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCaUld.java
+END
+Commodity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/Commodity.java
+END
+ZHandlingAirport.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/5770/COMMON_JAVA/src/de/act/common/types/staticobjects/ZHandlingAirport.java
+END
+RSDistr.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/7222/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDistr.java
+END
+RSPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkg.java
+END
+RSDbmWs.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/3846/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDbmWs.java
+END
+CCommodityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4209/COMMON_JAVA/src/de/act/common/types/staticobjects/CCommodityTree.java
+END
+RSFltCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3546/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFltCapacity.java
+END
+RSAddBlackboxID.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddBlackboxID.java
+END
+RSDi.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDi.java
+END
+RSAddReplyPush.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/5472/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddReplyPush.java
+END
+SRateAuto.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5476/COMMON_JAVA/src/de/act/common/types/staticobjects/SRateAuto.java
+END
+RSCc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/3840/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCc.java
+END
+RSCourierVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/5887/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCourierVehicle.java
+END
+RSAnn.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAnn.java
+END
+RSCur.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCur.java
+END
+RSAcID.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAcID.java
+END
+RSCoAr.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/3667/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCoAr.java
+END
+DUserVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/5887/COMMON_JAVA/src/de/act/common/types/staticobjects/DUserVehicle.java
+END
+BookingItemParentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/act/!svn/ver/7331/COMMON_JAVA/src/de/act/common/types/staticobjects/BookingItemParentWrapper.java
+END
+RSCourierRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/7223/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCourierRoute.java
+END
+RSAddID.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddID.java
+END
+RSForerunTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/7081/COMMON_JAVA/src/de/act/common/types/staticobjects/RSForerunTime.java
+END
+RSPostalCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/7222/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPostalCode.java
+END
+Carrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/3283/COMMON_JAVA/src/de/act/common/types/staticobjects/Carrier.java
+END
+RSClassRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3721/COMMON_JAVA/src/de/act/common/types/staticobjects/RSClassRate.java
+END
+RSScc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/326/COMMON_JAVA/src/de/act/common/types/staticobjects/RSScc.java
+END
+RSState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/454/COMMON_JAVA/src/de/act/common/types/staticobjects/RSState.java
+END
+RSPkgPal.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgPal.java
+END
+DataPaymentTemp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/7222/COMMON_JAVA/src/de/act/common/types/staticobjects/DataPaymentTemp.java
+END
+RSCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/7222/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCity.java
+END
+RSHouseAirwaybill.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/7241/COMMON_JAVA/src/de/act/common/types/staticobjects/RSHouseAirwaybill.java
+END
+RSEmailDailyBL.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4298/COMMON_JAVA/src/de/act/common/types/staticobjects/RSEmailDailyBL.java
+END
+RSFltMmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4061/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFltMmt.java
+END
+RSAci.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAci.java
+END
+RsFltScc.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/3815/COMMON_JAVA/src/de/act/common/types/staticobjects/RsFltScc.java
+END
+RSDgrs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDgrs.java
+END
+CommodityDGR.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2464/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityDGR.java
+END
+CommodityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityItem.java
+END
+RSPkgMats.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/1/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgMats.java
+END
+RSConx.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4148/COMMON_JAVA/src/de/act/common/types/staticobjects/RSConx.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/4630/COMMON_JAVA/src/de/act/common/types/staticobjects/Country.java
+END
+RSAcComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4425/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAcComp.java
+END
+CustomCountryArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/2057/COMMON_JAVA/src/de/act/common/types/staticobjects/CustomCountryArea.java
+END
+Cons.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/4259/COMMON_JAVA/src/de/act/common/types/staticobjects/Cons.java
+END
+RSUldTypeStock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/682/COMMON_JAVA/src/de/act/common/types/staticobjects/RSUldTypeStock.java
+END
+RsAcScc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/staticobjects/RsAcScc.java
+END
+RCAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/5504/COMMON_JAVA/src/de/act/common/types/staticobjects/RCAdd.java
+END
+RSInformations.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSInformations.java
+END
+DataPaymentTempDoorToDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/act/!svn/ver/7203/COMMON_JAVA/src/de/act/common/types/staticobjects/DataPaymentTempDoorToDoor.java
+END
+RSPkgShps.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgShps.java
+END
+RSAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/5838/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAdd.java
+END
+RSCostCons.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4522/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCostCons.java
+END
+RSPkgCols.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgCols.java
+END
+RSDbmWsCharges.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/3846/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDbmWsCharges.java
+END
+RSPkgCol.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgCol.java
+END
+RSWgtVolPref.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/4259/COMMON_JAVA/src/de/act/common/types/staticobjects/RSWgtVolPref.java
+END
+RSRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSRates.java
+END
+RRBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/7245/COMMON_JAVA/src/de/act/common/types/staticobjects/RRBase.java
+END
+RSDbmWsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/3868/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDbmWsView.java
+END
+GSAPartnership.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/3236/COMMON_JAVA/src/de/act/common/types/staticobjects/GSAPartnership.java
+END
+RSDgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSDgr.java
+END
+RSCimpPref.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4533/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCimpPref.java
+END
+RSJNECode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/7236/COMMON_JAVA/src/de/act/common/types/staticobjects/RSJNECode.java
+END
+CommodityClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityClass.java
+END
+Commodities.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/Commodities.java
+END
+CustomerNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4228/COMMON_JAVA/src/de/act/common/types/staticobjects/CustomerNumber.java
+END
+IPasarRateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/7305/COMMON_JAVA/src/de/act/common/types/staticobjects/IPasarRateRequest.java
+END
+RSCostConx.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4522/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCostConx.java
+END
+RSOt2lc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/2347/COMMON_JAVA/src/de/act/common/types/staticobjects/RSOt2lc.java
+END
+RSEmailOps.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4114/COMMON_JAVA/src/de/act/common/types/staticobjects/RSEmailOps.java
+END
+RSCimpAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5023/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCimpAdd.java
+END
+RSPkgMat.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSPkgMat.java
+END
+RCAddConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2772/COMMON_JAVA/src/de/act/common/types/staticobjects/RCAddConf.java
+END
+MyReflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/MyReflector.java
+END
+SccPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3815/COMMON_JAVA/src/de/act/common/types/staticobjects/SccPreference.java
+END
+RSCo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/7082/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCo.java
+END
+RSFuelChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/3567/COMMON_JAVA/src/de/act/common/types/staticobjects/RSFuelChar.java
+END
+RSAddName.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/2648/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddName.java
+END
+CommodityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/CommodityTree.java
+END
+Discrepancies.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2600/COMMON_JAVA/src/de/act/common/types/staticobjects/Discrepancies.java
+END
+ICommodity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/5077/COMMON_JAVA/src/de/act/common/types/staticobjects/ICommodity.java
+END
+Partnership.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/5525/COMMON_JAVA/src/de/act/common/types/staticobjects/Partnership.java
+END
+RSAc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAc.java
+END
+RSOt1lc.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSOt1lc.java
+END
+ICommodityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/4566/COMMON_JAVA/src/de/act/common/types/staticobjects/ICommodityTree.java
+END
+IPasarExpeditorRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/7305/COMMON_JAVA/src/de/act/common/types/staticobjects/IPasarExpeditorRate.java
+END
+InsuranceChargeCommodity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/types/staticobjects/InsuranceChargeCommodity.java
+END
+RSCostAp.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4522/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCostAp.java
+END
+RSCas.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/staticobjects/RSCas.java
+END
+RSAddReplyEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/5394/COMMON_JAVA/src/de/act/common/types/staticobjects/RSAddReplyEmail.java
+END

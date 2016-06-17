@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/474/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule
+END
+IHandlingBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/act/!svn/ver/474/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/IHandlingBasic.java
+END
+IHandlingWarehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/IHandlingWarehouse.java
+END
+INotocWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/INotocWrite.java
+END
+IHandlingOffice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/IHandlingOffice.java
+END
+INotifyWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/INotifyWrite.java
+END
+INotifyRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/handlingmodule/INotifyRead.java
+END

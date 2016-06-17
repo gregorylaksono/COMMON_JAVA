@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/act/!svn/ver/5309/COMMON_JAVA/src/de/act/common/types/handling
+END
+AcceptanceItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/1018/COMMON_JAVA/src/de/act/common/types/handling/AcceptanceItemData.java
+END
+AManifestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/5309/COMMON_JAVA/src/de/act/common/types/handling/AManifestData.java
+END
+ANotocItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/2467/COMMON_JAVA/src/de/act/common/types/handling/ANotocItem.java
+END
+APureManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/APureManifest.java
+END
+FAcceptanceShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2614/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceShipment.java
+END
+FAcceptanceAWBItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2618/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceAWBItem.java
+END
+FAcceptanceHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2618/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceHeader.java
+END
+FAcceptanceShipmentPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/1240/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceShipmentPkg.java
+END
+AwbEPaymentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/4791/COMMON_JAVA/src/de/act/common/types/handling/AwbEPaymentView.java
+END
+AcceptanceDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/act/!svn/ver/1018/COMMON_JAVA/src/de/act/common/types/handling/AcceptanceDataObject.java
+END
+AManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/AManifest.java
+END
+IItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/IItem.java
+END
+Shipments.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/Shipments.java
+END
+FAcceptanceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/767/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceItem.java
+END
+NotocOtherGoodsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/NotocOtherGoodsView.java
+END
+AwbEPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4941/COMMON_JAVA/src/de/act/common/types/handling/AwbEPayment.java
+END
+NotocView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/NotocView.java
+END
+NotocDangerousGoodsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/NotocDangerousGoodsView.java
+END
+APureManifestItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/2376/COMMON_JAVA/src/de/act/common/types/handling/APureManifestItem.java
+END
+ANotoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/2467/COMMON_JAVA/src/de/act/common/types/handling/ANotoc.java
+END
+FAcceptanceShipmentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/act/!svn/ver/2117/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceShipmentItem.java
+END
+AManifestItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/2608/COMMON_JAVA/src/de/act/common/types/handling/AManifestItem.java
+END
+FAcceptanceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/760/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceData.java
+END
+FAcceptanceAWBPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/1253/COMMON_JAVA/src/de/act/common/types/handling/FAcceptanceAWBPkg.java
+END
+AbstractAccItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/AbstractAccItem.java
+END
+FAcceptance.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/handling/FAcceptance.java
+END
+AcceptancePackageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/act/!svn/ver/1018/COMMON_JAVA/src/de/act/common/types/handling/AcceptancePackageData.java
+END
+AULDTrans.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/2323/COMMON_JAVA/src/de/act/common/types/handling/AULDTrans.java
+END

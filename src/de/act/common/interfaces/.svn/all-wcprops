@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/act/!svn/ver/7358/COMMON_JAVA/src/de/act/common/interfaces
+END
+ICurrencyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/7323/COMMON_JAVA/src/de/act/common/interfaces/ICurrencyAction.java
+END
+ICapacityControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/3791/COMMON_JAVA/src/de/act/common/interfaces/ICapacityControlAction.java
+END
+IAircraftTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/IAircraftTypeAction.java
+END
+ISession.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/4428/COMMON_JAVA/src/de/act/common/interfaces/ISession.java
+END
+IFormularAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/5845/COMMON_JAVA/src/de/act/common/interfaces/IFormularAction.java
+END
+IInsuranceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/7323/COMMON_JAVA/src/de/act/common/interfaces/IInsuranceAction.java
+END
+INoteContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/INoteContainer.java
+END
+GIFormPkg.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/GIFormPkg.java
+END
+IBasicUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/5124/COMMON_JAVA/src/de/act/common/interfaces/IBasicUserAction.java
+END
+ISccHandlingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/5176/COMMON_JAVA/src/de/act/common/interfaces/ISccHandlingAction.java
+END
+IAircraftCompAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/IAircraftCompAction.java
+END
+IShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/act/!svn/ver/5900/COMMON_JAVA/src/de/act/common/interfaces/IShipment.java
+END
+MiddlewareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/5224/COMMON_JAVA/src/de/act/common/interfaces/MiddlewareService.java
+END
+Webservice.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/act/!svn/ver/7373/COMMON_JAVA/src/de/act/common/interfaces/Webservice.java
+END
+ILogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/ILogin.java
+END
+IAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/act/!svn/ver/4428/COMMON_JAVA/src/de/act/common/interfaces/IAction.java
+END
+IAircraftTypeCompAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/interfaces/IAircraftTypeCompAction.java
+END
+IActernityGatewayClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2411/COMMON_JAVA/src/de/act/common/interfaces/IActernityGatewayClient.java
+END
+IScheduleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/7243/COMMON_JAVA/src/de/act/common/interfaces/IScheduleAction.java
+END
+IAircraftAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/3738/COMMON_JAVA/src/de/act/common/interfaces/IAircraftAction.java
+END
+IGeneralAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/7305/COMMON_JAVA/src/de/act/common/interfaces/IGeneralAction.java
+END
+INetRatesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/4696/COMMON_JAVA/src/de/act/common/interfaces/INetRatesAction.java
+END
+IActernityGatewayServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/act/!svn/ver/2411/COMMON_JAVA/src/de/act/common/interfaces/IActernityGatewayServer.java
+END

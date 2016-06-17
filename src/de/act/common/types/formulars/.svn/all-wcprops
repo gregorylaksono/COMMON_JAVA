@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/act/!svn/ver/4563/COMMON_JAVA/src/de/act/common/types/formulars
+END
+FormularError.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/FormularError.java
+END
+IAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/IAttachment.java
+END
+CFormularSLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4085/COMMON_JAVA/src/de/act/common/types/formulars/CFormularSLI.java
+END
+CFormularExportAcceptance.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularExportAcceptance.java
+END
+IFormularMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/4409/COMMON_JAVA/src/de/act/common/types/formulars/IFormularMain.java
+END
+FormularNotocInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/2464/COMMON_JAVA/src/de/act/common/types/formulars/FormularNotocInfo.java
+END
+FormularCOOItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/act/!svn/ver/2169/COMMON_JAVA/src/de/act/common/types/formulars/FormularCOOItem.java
+END
+CFormularWarehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularWarehouse.java
+END
+CFormularBKG.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularBKG.java
+END
+CAbstractFormular.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CAbstractFormular.java
+END
+CFormularManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularManifest.java
+END
+CFormularSAD.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularSAD.java
+END
+CFormularNotify.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularNotify.java
+END
+IFormulars.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/IFormulars.java
+END
+CFormularAWB.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/4563/COMMON_JAVA/src/de/act/common/types/formulars/CFormularAWB.java
+END
+CFormularDGR.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularDGR.java
+END
+FormularCOO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/2078/COMMON_JAVA/src/de/act/common/types/formulars/FormularCOO.java
+END
+FormularType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/FormularType.java
+END
+CFormularAVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularAVI.java
+END
+CFormular.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/act/!svn/ver/4409/COMMON_JAVA/src/de/act/common/types/formulars/CFormular.java
+END
+CFormularNotoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularNotoc.java
+END
+CFAttTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFAttTemplate.java
+END
+CFormularDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/act/!svn/ver/286/COMMON_JAVA/src/de/act/common/types/formulars/CFormularDelivery.java
+END
