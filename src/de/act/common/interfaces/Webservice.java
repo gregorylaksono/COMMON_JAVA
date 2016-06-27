@@ -460,6 +460,7 @@ public interface Webservice {
 	
 	public BigDecimal calculateCommodityInsurance(User user, String commodity, BigDecimal totalValue, BigDecimal itemValue, BigDecimal transportValue, Double weight);
 	public List<CommodityInsurance> getCommodityInsuranceById(String addId);
+	public Integer deleteInsuranceId(Long insuranceId);
 	public CommodityInsurance getCommodityInsurance(String commodity);
 	public Integer saveCommodityInsurance(Long comInsId,Long comId, Integer addId, Double rate, String rateUnit, String currency,
 			Double min,Date validFrom, Date validUntil, String[] rules);
